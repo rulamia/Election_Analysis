@@ -19,7 +19,8 @@ candidate_votes = {}
 
 # 1: Create a county list and county votes dictionary.
 
-
+country_list = []
+county_votes = {}
 
 # Track the winning candidate, vote count and percentage
 winning_candidate = ""
